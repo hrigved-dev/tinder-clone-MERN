@@ -16,7 +16,7 @@ function Header() {
 
         <img 
         className="header__logo"
-        src="https://1000logos.net/wp-content/uploads/2018/07/Tinder-logo-768x432.png"
+        src="https://www.logo.wine/a/logo/Tinder_(app)/Tinder_(app)-Flame-Logo.wine.svg"
         alt="" />
 
         <IconButton>

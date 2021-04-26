@@ -13,25 +13,20 @@
 
 .repeat {
     padding: 3vw !important;
-    color: #f5b748;
 }
 
 .left {
     padding: 3vw !important;
-    color: #ec5e6f;    
 }
 
 .star {
-    padding: 3vw !important;
-    color: #62b4f9;    
+    padding: 3vw !important;    
 }
 
 .right {
     padding: 3vw !important;
-    color: #76e2b3;    
 }
 
 .lightning {
-    padding: 3vw ;
-    color: #915dd1;    
+    padding: 3vw !important;  
 }
