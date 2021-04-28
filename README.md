@@ -4,7 +4,7 @@
 ##Images
 ![image1](images/image1.png)
 
-![image2](images/imahe2.png)
+![image2](images/image2.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
