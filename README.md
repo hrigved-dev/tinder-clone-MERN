@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 
-##Images
+## Images
 ![image1](images/image1.png)
 
 ![image2](images/image2.png)
